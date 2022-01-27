@@ -1,0 +1,29 @@
+<svg id="tree3" xmlns="http://www.w3.org/2000/svg" width="2.48in" height="4in" viewBox="0 0 178.56 288">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d27f3b;
+      }
+
+      .cls-2 {
+        fill: #af713d;
+      }
+
+      .cls-3 {
+        fill: #89a81f;
+      }
+
+      .cls-4 {
+        fill: #6d8a0f;
+      }
+    </style>
+  </defs>
+  <g id="tree3Trunk">
+    <polygon id="tree3Trunk-light" class="cls-1" points="76.84 280.59 89.18 287.81 89.18 173.07 76.76 165.86 76.84 280.59"/>
+    <polygon id="tree3Trunk-shadow" class="cls-2" points="89.18 287.74 101.53 280.59 101.63 165.86 89.18 173.04 89.18 287.74"/>
+  </g>
+  <g id="tree3Top">
+    <circle id="tree3Top-light" class="cls-3" cx="89.07" cy="89.21" r="88.88"/>
+    <path id="tree3Top-shadow" class="cls-4" d="M178.21,89.26c0,49.09-39.83,87-88.88,88.88C69.78,178.9,71.89,1.19,89.33.37,138.36-1.92,178.21,40.17,178.21,89.26Z"/>
+  </g>
+</svg>
