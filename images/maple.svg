@@ -1,0 +1,25 @@
+<svg id="maple" xmlns="http://www.w3.org/2000/svg" width="2.47in" height="3.99in" viewBox="0 0 177.77 287.48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #af713d;
+      }
+
+      .cls-2 {
+        fill: #d27f3b;
+      }
+
+      .cls-3 {
+        fill: #73894b;
+      }
+
+      .cls-4 {
+        fill: #84a759;
+      }
+    </style>
+  </defs>
+  <polygon id="maple-trunkS" class="cls-1" points="76.65 280.27 88.99 287.48 88.99 172.75 76.58 165.53 76.65 280.27"/>
+  <polygon id="maple-trunkL" class="cls-2" points="88.99 287.41 101.34 280.27 101.45 165.53 88.99 172.71 88.99 287.41"/>
+  <circle id="mapleS" class="cls-3" cx="88.88" cy="88.88" r="88.88"/>
+  <path id="mapleL" class="cls-4" d="M119.93,5.58A88.89,88.89,0,0,0,89.25,177.76,88.89,88.89,0,0,0,119.93,5.58Z"/>
+</svg>

@@ -1,0 +1,25 @@
+<svg id="fir" xmlns="http://www.w3.org/2000/svg" width="1.65in" height="4in" viewBox="0 0 118.75 288.01">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #af713d;
+      }
+
+      .cls-2 {
+        fill: #d27f3b;
+      }
+
+      .cls-3 {
+        fill: #73894b;
+      }
+
+      .cls-4 {
+        fill: #84a759;
+      }
+    </style>
+  </defs>
+  <polygon id="fir-trunkS" class="cls-1" points="47.55 226.3 47.65 281.14 59.37 288.01 59.37 287.96 59.37 233.17 47.55 226.3"/>
+  <polygon id="fir-trunkL" class="cls-2" points="59.37 233.12 59.37 233.17 59.37 287.96 71.2 281.14 71.29 226.3 59.37 233.12"/>
+  <polyline id="firS" class="cls-3" points="59.39 0 0 212.57 59.38 246.85"/>
+  <polygon id="firL" class="cls-4" points="59.38 0.01 118.75 212.59 59.38 246.84 59.38 0.01"/>
+</svg>
