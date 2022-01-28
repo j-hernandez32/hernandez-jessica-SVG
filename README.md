@@ -2,7 +2,7 @@
 
 # SVG Marketplace by Jessi Hernandez
 
-A storefront showcasing isometric vectors that, when combined, create a meadow scene with a river and various natural elements.
+A storefront showcasing isometric elements that, when combined, create a meadow scene with a river and various natural elements.
 
 Written using HTML5, CSS and Javascript.
 
