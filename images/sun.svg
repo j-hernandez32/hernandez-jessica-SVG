@@ -1,0 +1,15 @@
+<svg id="sun" xmlns="http://www.w3.org/2000/svg" width="0.8in" height="0.8in" viewBox="0 0 57.39 57.39">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e5d039;
+      }
+
+      .cls-2 {
+        fill: #f4e340;
+      }
+    </style>
+  </defs>
+  <circle id="sunS" class="cls-1" cx="28.7" cy="28.7" r="28.69"/>
+  <path id="sunL" class="cls-2" d="M33.49,57A28.7,28.7,0,0,0,14.22,3.92,28.7,28.7,0,0,0,33.49,57Z"/>
+</svg>

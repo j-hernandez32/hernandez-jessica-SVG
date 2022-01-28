@@ -1,0 +1,35 @@
+<svg id="spruce" xmlns="http://www.w3.org/2000/svg" width="1.98in" height="4in" viewBox="0 0 142.42 288.01">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #af713d;
+      }
+
+      .cls-2 {
+        fill: #d27f3b;
+      }
+
+      .cls-3 {
+        fill: #6a7c43;
+      }
+
+      .cls-4 {
+        fill: #809e54;
+      }
+
+      .cls-5 {
+        fill: #73894b;
+      }
+
+      .cls-6 {
+        fill: #84a759;
+      }
+    </style>
+  </defs>
+  <polygon id="spruce-trunkS" class="cls-1" points="59.4 281.15 71.22 288 71.22 219.41 59.37 212.58 59.4 281.15"/>
+  <polygon id="spruce-trunkL" class="cls-2" points="71.22 288 83.05 281.17 83.1 212.56 71.2 219.43 71.22 288"/>
+  <polygon id="spruce1S" class="cls-3" points="23.7 164.56 0 192.01 71.26 233.16 71.21 192.02 23.7 164.56"/>
+  <polygon id="spruce1L" class="cls-4" points="71.21 191.94 71.24 233.14 142.39 191.95 118.8 164.53 71.21 191.94"/>
+  <polyline id="spruce2S" class="cls-5" points="71.23 0 0.01 164.57 71.21 205.73"/>
+  <polygon id="spruce2L" class="cls-6" points="71.23 0.02 142.42 164.57 71.2 205.72 71.23 0.02"/>
+</svg>
